@@ -2,7 +2,7 @@
 
 Lights Out game made in React.js inspired by the classic 90s game
 
-Live Demo: [Hangman game](https://danielo-lights-out.netlify.app)
+Live Demo: [Lights Out game](https://danielo-lights-out.netlify.app)
 
 
 ## Gif
